@@ -93,7 +93,7 @@ code .vscode/launch.json
       "name": "Listen for XDebug",
       "type": "php",
       "request": "launch",
-      "port": 9000,
+      "port": 9003,
       "log": false,
       "pathMappings": {
         "/app/": "${workspaceFolder}/",
